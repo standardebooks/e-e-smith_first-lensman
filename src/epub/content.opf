@@ -54,7 +54,7 @@
 		<meta property="authority" refines="#subject-8">LCSH</meta>
 		<meta property="term" refines="#subject-8">sh2008110149</meta>
 		<meta property="se:subject">Science Fiction</meta>
-		<meta id="collection-1" property="belongs-to-collection">Lensman Series</meta>
+		<meta id="collection-1" property="belongs-to-collection">Lensman</meta>
 		<meta property="collection-type" refines="#collection-1">series</meta>
 		<meta property="group-position" refines="#collection-1">2</meta>
 		<dc:description id="description">Virgil Samms, the first individual to recieve a Lens from the mysterious and powerful Arisians, works to create the Galatic Patrol to protect all adherents of Civilization from the threat of the Boskonians and their masters, the Eddorians.</dc:description>

@@ -64,7 +64,7 @@
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/49525</dc:source>
 		<dc:source>https://archive.org/details/FirstLensman/</dc:source>
-		<meta property="se:word-count">100186</meta>
+		<meta property="se:word-count">100182</meta>
 		<meta property="se:reading-ease.flesch">64.91</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/First_Lensman</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/e-e-smith_first-lensman</meta>

@@ -74,8 +74,8 @@
 		<meta property="se:name.person.full-name" refines="#author">Edward Elmer Smith</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/E._E._Smith</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n50014271</meta>
-		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">ann</meta>
+		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<dc:contributor id="artist">Horatio C. Forjohn</dc:contributor>
 		<meta property="file-as" refines="#artist">Forjohn, Horatio C.</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>

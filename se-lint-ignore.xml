@@ -6,4 +6,10 @@
 			<reason>Matched text is not a typo.</reason>
 		</ignore>
 	</file>
+	<file path="chapter-15.xhtml">
+		<ignore code="t-005">
+			<line>41</line>
+			<reason>Matched text is interrupted by a narrative interjection.</reason>
+		</ignore>
+	</file>
 </se-lint-ignore>

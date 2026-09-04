@@ -31,13 +31,13 @@
 		<dc:title id="title">First Lensman</dc:title>
 		<meta property="file-as" refines="#title">First Lensman</meta>
 		<dc:subject id="subject-1">Science fiction</dc:subject>
-		<dc:subject id="subject-2">Space warfare -- Fiction</dc:subject>
-		<dc:subject id="subject-3">Imaginary wars and battles -- Fiction</dc:subject>
-		<dc:subject id="subject-4">Human-alien encounters -- Fiction</dc:subject>
-		<dc:subject id="subject-5">Space colonies -- Fiction</dc:subject>
-		<dc:subject id="subject-6">Outer space -- Exploration -- Fiction</dc:subject>
-		<dc:subject id="subject-7">Space security -- Fiction</dc:subject>
-		<dc:subject id="subject-8">Psychic ability -- Fiction</dc:subject>
+		<dc:subject id="subject-2">Space warfare--Fiction</dc:subject>
+		<dc:subject id="subject-3">Imaginary wars and battles--Fiction</dc:subject>
+		<dc:subject id="subject-4">Human-alien encounters--Fiction</dc:subject>
+		<dc:subject id="subject-5">Space colonies--Fiction</dc:subject>
+		<dc:subject id="subject-6">Outer space--Exploration--Fiction</dc:subject>
+		<dc:subject id="subject-7">Space security--Fiction</dc:subject>
+		<dc:subject id="subject-8">Psychic ability--Fiction</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh85118629</meta>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
